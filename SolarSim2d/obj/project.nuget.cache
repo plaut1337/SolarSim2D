@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eAlMtf3lA2pOWSb2/moUzfqwFgKhYG8VSqfgCdI2fhTTo8/QYcQRepFaIkxh3Zhzouv7TR6Cm95rHzXFHQgGAw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Projects\\SolarSim2d\\SolarSim2d\\SolarSim2d.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roko\\.nuget\\packages\\raylib-cs\\4.2.0.2\\raylib-cs.4.2.0.2.nupkg.sha512",
+    "C:\\Users\\Roko\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
